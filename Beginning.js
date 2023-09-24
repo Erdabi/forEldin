@@ -4,6 +4,9 @@
 //you cant run quokka if the code has problems
 //with a double // can you create comments if you have a red thing on this code just put // infront of it
 
+//It doesnt matter how you call your variable just try to write it so that you understand what the value is
+const monkey = "banana"
+
 //with those you can start doing variables
 //var       //i wouldnt recommend var cuz its confusing
 //let       //use let instead of var cuz only one variable name can be put in unlike var
